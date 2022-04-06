@@ -4,8 +4,7 @@
 - [X] Connect website to the backend server
 - [X] Find a suitable port to do the same
 - [X] Getting the requests working
-- [ ] Getting the feedback email working
-- [ ] Making telegram bot to automate tasks
+- [X] Getting the feedback email working
 - [ ] Hosting the website on Heroku
 ****
 ## Tasks to be done on your side
